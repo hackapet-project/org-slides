@@ -1,7 +1,7 @@
 ---
 title: "Bienvenid@s a Hackapet"
-author: "Felipe Gadea & Ignacio Delgado - Hackapet"
-date: "Hackerspace Valencia"
+author: "Fernando Sanjuan, Felipe Gadea & Ignacio Delgado"
+date: "info@hackapet.com"
 theme: "Copenhagen"
 colortheme: "custom" 
 ---
@@ -32,6 +32,14 @@ Puedes encontrar una copia de estas diapositivas en el siguiente enlace:
 
 ---
 
+# Presentación entre nosotros
+
+- Quién soy
+- Qué hago laboralente/estudio.
+- Por qué estoy aquí.
+
+---
+
 # ¿Qué es Hackapet? ¿Por qué lo hacemos?
 
 ![](./images/hackapet-wallpaper.png){width=1\textwidth}
@@ -44,10 +52,17 @@ Puedes encontrar una copia de estas diapositivas en el siguiente enlace:
 Un proyecto **sin ánimo de lucro y de código abierto** que desarrolla herramientas digitales para **optimizar la gestión en refugios de animales y facilitar las adopciones.**
 
 - Somos voluntarios.
-- Ganamos experiencia y podemos ponerlo en nuestro portfolio.
 - Colaboramos con una buena causa.
 - Aprendemos entre nosotros y de gente con mucha más experiencia.
 - Trabajamos en equipo.
+- Ganamos experiencia y podemos ponerlo en nuestro portfolio.
+
+---
+
+# Colaboradores
+
+- ¿Quién quiere aparecer en la web?
+- Lo podéis poner en Linkedin si queréis.
 
 ---
 
@@ -71,3 +86,84 @@ Un proyecto **sin ánimo de lucro y de código abierto** que desarrolla herramie
 ![](./images/phase-3.png){width=1\textwidth}
 
 ---
+
+# Colaboración y comunicación con las protectoras
+
+- Sin ellas esto no sería posible.
+- Designaremos a una persona encargada de llevar las comunicaciones.
+- Les daremos updates del progreso.
+- Harán pruebas de la beta, una vez esté terminada.
+- Nos dan feedback.
+
+---
+
+# Cómo nos organizaremos. El modelo híbrido.
+
+## ¿Qué es el modelo híbrido?
+
+## Podemos dividirnos en tres grupos:
+- Los habituales, los que estamos a largo plazo.
+- Contribuidores esporádicos en sesiones de puertas abiertas.
+- Contribuidores online de Github/Gitlab.
+
+---
+
+# Los habituales, a largo plazo
+
+- Sprints de un mes.
+- Accountable.
+- Weelky meetings.
+- Organizados más metículosamente.
+- Estable.
+
+---
+
+# Puertas abiertas
+
+- No hace falta que colaboren más de una sesión.
+- Esta sesión será una vez al mes, en un meetup en el Hackerspace.
+- Es para introducir a la gente a los problemas que nos encontramos en Hackapet.
+- Mob Programming / Peer programming.
+- Objetivo conseguir que más gente se una.
+
+---
+
+# Contribuidores online de todo el mundo
+
+- Revisaremos las PRs
+- Reconocimiento de su trabajo.
+
+---
+
+# Para resumir
+
+- Sprints de un mes para los contribuidores regulares.
+- Sesiones mensuales para presentar nuestro trabajo a nueva gente y plantar la semilla de Hackapet. Plantear problemas y resolverlos en directo.
+- Weekly meetings para revisar el progreso de nuestro trabajo.
+
+---
+
+# Plataformas
+
+1. Frontend:
+    - P.O: Fernando Sanjuan
+    - Tech Lead: Ignacio Delgado
+    - Stack: React, Typescript
+2. Backend:
+    - P.O. Fernando Sanjuan
+    - Tech Lead: 
+    - Stack: Django.
+3. iOS:
+    - P.O: Felipe Gadea
+    - Tech Lead: Felipe Gadea
+    - Stack: Native
+4. Android:
+    - P.O: Felipe Gadea
+    - Tech Lead: Ignacio Delgado
+    - Stack: Native (KMM)
+
+---
+
+# Debate sobre cómo organizar el proyecto y preguntas
+
+## Te escuchamos!
