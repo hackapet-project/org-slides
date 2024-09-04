@@ -59,10 +59,11 @@ Un proyecto **sin ánimo de lucro y de código abierto** que desarrolla herramie
 
 ---
 
-# Colaboradores
+![](./images/technologies.png){width=1\textwidth}
 
-- ¿Quién quiere aparecer en la web?
-- Lo podéis poner en Linkedin si queréis.
+---
+
+![](./images/structure.png){width=1\textwidth}
 
 ---
 
@@ -148,19 +149,15 @@ Un proyecto **sin ánimo de lucro y de código abierto** que desarrolla herramie
 1. Frontend:
     - P.O: Fernando Sanjuan
     - Tech Lead: Ignacio Delgado
-    - Stack: React, Typescript
 2. Backend:
     - P.O. Fernando Sanjuan
-    - Tech Lead: 
-    - Stack: Django.
+    - Tech Lead: Fernando Sanjuan
 3. iOS:
     - P.O: Felipe Gadea
     - Tech Lead: Felipe Gadea
-    - Stack: Native
 4. Android:
     - P.O: Felipe Gadea
     - Tech Lead: Ignacio Delgado
-    - Stack: Native (KMM)
 
 ---
 
