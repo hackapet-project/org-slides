@@ -39,121 +39,89 @@ Puedes encontrar una copia de estas diapositivas en el siguiente enlace:
 
 ---
 
-# Introducción breve
+# Hackapet en 2025 (y 2026) 
 
-## Hackapet es
-Un proyecto **sin ánimo de lucro y de código abierto** que desarrolla herramientas digitales para **optimizar la gestión en refugios de animales y facilitar las adopciones.**
-
-- Somos voluntarios.
-- Colaboramos con una buena causa.
-- Aprendemos entre nosotros y de gente con mucha más experiencia.
-- Trabajamos en equipo.
-- Ganamos experiencia y podemos ponerlo en nuestro portfolio.
-
----
-
-![](./images/technologies.png){width=1\textwidth}
+- Tenemos PetSync desplegado en Beta en las protectoras con las que colaboramos. **(Antes de verano)**
+- Estamos puliendo bugs de PetSync y comenzando el trabajo de la siguiente fase ^^ **(Antes de septiembre)**
+- Colaboramos con más protectoras y santuarios de forma cercana. Unas 5. Junto con las que ya colaboramos. **(Antes de octubre)**
+- Tenemos nuestro propio espacio físico. **(Antes de mitad de año)**
+- Tenemos nuestra propia entidad legal, Asociación Sin Ánimo de lucro - **(Antes del final de febrero)**
+- Damos charlas en Conferencias de OpenSource a nivel nacional e internacional **(Cuando queráis, ¿Voluntari@s?)**
+- Ofrecemos salarios a diseñador@s, y desarrollador@s que estén a tiempo parcial. **2026**
 
 ---
 
-![](./images/structure.png){width=1\textwidth}
+# ¿Cómo lo conseguimos?
+
+## ¡Sólo seguid siendo así de geniales! ^^
+
+Habéis hecho un trabajo magnífico el año pasado, este año si seguimos así podremos consegir los resultados de arriba, ¡y más!
+
+La estrategia en cada equipo la veremos en detalle más adelante, pero como clave: **Constancia.**
 
 ---
 
-# Las fases.
+# Un año de Hackapet.
 
-## El proyecto se divide en 3 fases
-* Se harán por orden de dificultad y en función de cuanta gente seamos.
-* La segunda fase se hará al final ya que es la más importante y grande.
-* Habrán deadlines para cumplir, pero para los P.O.
+Hackapet cumplió un año oficialmente el mes pasado. En este año:
 
----
-
-![](./images/phase-1.png){width=1\textwidth}
-
----
-
-![](./images/phase-2.png){width=1\textwidth}
+- Hemos pasado de 3 personas a 9 habituales, más simpatizantes.
+- Hemos dado una charla en Las Naves.
+- Colaboramos con dos protectoras de Torrente.
+- Hemos empezado el proyecto y va encaminado.
+- No nos podemos confiar.
 
 ---
 
-![](./images/phase-3.png){width=1\textwidth}
+## ¡Vamos a por ello!
 
 ---
 
-# Colaboración y comunicación con las protectoras
+# Reuniones con protectoras
 
-- Sin ellas esto no sería posible.
-- Designaremos a una persona encargada de llevar las comunicaciones.
-- Les daremos updates del progreso.
-- Harán pruebas de la beta, una vez esté terminada.
-- Nos dan feedback.
+- Necesitamos encontrar protectoras y santuarios con los que colaborar, máximo 5. (A partir de Febrero)
+- Vamos a reunirnos una vez a la semana con las protectoras para actualizarles de los progresos y ver sus necesidades.
+- Vamos a reunir toda la documentación que hemos recogido de esas reuniones y ponerlas en un Knowledge Management Tool, de forma pública, solo información de las necesidades. No actas de reunión o información sensible.
 
 ---
 
-# Cómo nos organizaremos. El modelo híbrido.
+# Abrirnos al público.
 
-## ¿Qué es el modelo híbrido?
-
-## Podemos dividirnos en tres grupos:
-- Los habituales, los que estamos a largo plazo.
-- Contribuidores esporádicos en sesiones de puertas abiertas.
-- Contribuidores online de Github/Gitlab.
-
----
-
-# Los habituales, a largo plazo
-
-- Sprints de un mes.
-- Accountable.
-- Weelky meetings.
-- Organizados más metículosamente.
-- Estable.
+- 1 de Febrero charla en el Hackerspace.
+- Más charlas en diferentes eventos.
+- Mayor actividad en redes sociales.
+- Mejorar la web, LinkedIn, etc.
+- Boca a boca.
 
 ---
 
-# Puertas abiertas
+# Organización interna
 
-- No hace falta que colaboren más de una sesión.
-- Esta sesión será una vez al mes, en un meetup en el Hackerspace.
-- Es para introducir a la gente a los problemas que nos encontramos en Hackapet.
-- Mob Programming / Peer programming.
-- Objetivo conseguir que más gente se una.
-
----
-
-# Contribuidores online de todo el mundo
-
-- Revisaremos las PRs
-- Reconocimiento de su trabajo.
-
----
-
-# Para resumir
-
-- Sprints de un mes para los contribuidores regulares.
-- Sesiones mensuales para presentar nuestro trabajo a nueva gente y plantar la semilla de Hackapet. Plantear problemas y resolverlos en directo.
-- Weekly meetings para revisar el progreso de nuestro trabajo.
+- Org
+    - Noticia agridulce.
+- Diseño
+    - Web rediseño.
+    - App.
+    - Template para protectoras, de web.
+- Frontend
+    - Desarrollo de Template.
+    - Necesidad de Team Lead.
+- Backend
+    - Desarrollo del Backend.
+    - Necesidad de Team Lead.
+- iOS
+    - Desarrollo de iOS.
+- Android
+    - Eugeni es el Team Lead.
+    - Está todo muy avanzado.
 
 ---
 
-# Plataformas
+# Debate sobre la organización.
 
-1. Frontend:
-    - P.O: Fernando Sanjuan
-    - Tech Lead: Ignacio Delgado
-2. Backend:
-    - P.O. Fernando Sanjuan
-    - Tech Lead: Fernando Sanjuan
-3. iOS:
-    - P.O: Felipe Gadea
-    - Tech Lead: Felipe Gadea
-4. Android:
-    - P.O: Felipe Gadea
-    - Tech Lead: Ignacio Delgado
+Aquí hablamos de temas propuestos por vosotros de forma oficial u anónima.
 
----
+1. I.D.: Podríamos en un futuro hacer que el sistema del backend sea federado. Obviamente, tenemos que centrarnos en que funcione primero, pero no perder de vista esto, así es mucho más interoperable.
+2. I.D.: Habría que ir pensando en buscar conferencias donde dar charlas o al menos ir. #repre100.
 
-# Debate sobre cómo organizar el proyecto y preguntas
 
-## Te escuchamos!
