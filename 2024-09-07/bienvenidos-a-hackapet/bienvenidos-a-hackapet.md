@@ -2,8 +2,6 @@
 title: "Bienvenid@s a Hackapet"
 author: "Fernando Sanjuan, Felipe Gadea & Ignacio Delgado"
 date: "info@hackapet.com"
-theme: "Copenhagen"
-colortheme: "custom" 
 ---
 
 # Copia de estas diapositivas
